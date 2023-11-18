@@ -1,3 +1,4 @@
+## index.js ja index.html sisältää kaiken oleellisen. Koodia on kommentoitu, jotta se olisi helpommin tulkittavissa
 
 ## Jos lataat tai kloonaat tämän, anna juurikansiossa komento npm install.
 
